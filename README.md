@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Welcome to Ojaswa Chauhan's Profile!](./Video_Generation_for_Ozayy.gif)](https://github.com/O-zayy)
+<img src="./Video_Generation_for_Ozayy.gif" width="1000" alt="Welcome to Ojaswa Chauhan's Profile!" />
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ojaswa_chauhan770) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ojaswa-chauhan-812261381/) &nbsp;
