@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Welcome to Ojaswa Chauhan's Profile!](https://github.com/jdg2896/jdg2896/raw/main/assets/header.gif)](https://github.com/O-zayy)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[![Welcome to Ojaswa Chauhan's Profile!](https://readme-typing-svg.demolab.com/?font=Righteous&size=50&center=true&vCenter=true&width=600&height=120&lines=HELLO+WORLD,;I'M+OZAYY!&color=F7DF1E)](https://github.com/O-zayy)
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ojaswa_chauhan770) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ojaswa-chauhan-812261381/) &nbsp;
